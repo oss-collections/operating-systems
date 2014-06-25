@@ -1,0 +1,3 @@
+[submodule "openbsd"]
+	path = openbsd
+	url = git@bitbucket.org:braindamaged/openbsd-src.git
