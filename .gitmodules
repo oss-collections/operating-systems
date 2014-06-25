@@ -1,3 +1,6 @@
 [submodule "openbsd"]
 	path = openbsd
 	url = git@bitbucket.org:braindamaged/openbsd-src.git
+[submodule "freebsd"]
+	path = freebsd
+	url = git@github.com:oss-collections/freebsd.git
