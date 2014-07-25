@@ -7,3 +7,6 @@
 [submodule "nixos"]
 	path = nixos
 	url = git@github.com:oss-collections/nixos.git
+[submodule "clive"]
+	path = clive
+	url = git://git.lsub.org/go.git
